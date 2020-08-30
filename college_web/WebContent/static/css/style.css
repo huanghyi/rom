@@ -1,0 +1,72 @@
+body {
+    font-family: '微软雅黑';
+}
+
+/* index */
+
+/* 进度条下边距 */
+
+.progress {
+    margin-bottom: 15px;
+}
+
+/* 团队留言板 */
+
+/* 头像 */
+
+.media img {
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+}
+
+/* 按钮 +添加内容*/
+
+.mar15 {
+    margin-top: 15px;
+}
+
+/* padding */
+
+.pad0 {
+    padding: 0;
+}
+
+/* user_list */
+
+/* 用户管理 */
+
+.page-header {
+    margin-top: 0;
+}
+
+.page-header h1 {
+    margin: 0;
+    font-size: 16px;
+}
+
+/* user_search */
+
+.user_search {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-top: none;
+}
+
+/* tag */
+
+.taglist {
+    padding-top: 15px;
+}
+
+.taglist .alert {
+    margin: 0 15px 15px 0;
+}
+
+/* footer */
+
+footer {
+    text-align: center;
+    font-weight: 400;
+    padding: 20px;
+}
